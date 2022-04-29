@@ -1,0 +1,14 @@
+{
+  "name": "helloelectronapp",
+  "version": "0.0.1",
+  "description": "creat first app for electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Taylor Shi",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
